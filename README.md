@@ -1,4 +1,4 @@
-# Synthetic Data Generation Script
+# Predictive Maintenance
 
 ## Overview
 
